@@ -1,0 +1,1 @@
+# Amazing-OSRS-LMS-AutoHotKey
