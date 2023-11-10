@@ -1,4 +1,5 @@
 # Amazing-OSRS-LMS-AutoHotKey
 
 
-![AHK Armour](https://github.com/Tong1233/Amazing-OSRS-LMS-AutoHotKey/assets/74699244/2c1a8ab4-1e17-4306-91f9-6da506d30fd7)
+![ezgif com-video-to-gif](https://github.com/Tong1233/Amazing-OSRS-LMS-AutoHotKey/assets/74699244/269dd5f4-622b-441b-90ca-c643bf46eaca)
+
