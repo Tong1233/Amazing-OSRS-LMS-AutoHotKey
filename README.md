@@ -5,3 +5,7 @@ Feature rich auto hotkey to play Last Man Standing on OSRS. Uses the FindText AH
 **Fast Combat Style and Offensive Prayer Switching**
 
 ![AHKArmour](https://github.com/Tong1233/Amazing-OSRS-LMS-AutoHotKey/assets/74699244/289b1f43-0cbb-4b38-b06a-a8ce958d62d0)
+
+**Protection Prayer Switching**
+
+![Pray](https://github.com/Tong1233/Amazing-OSRS-LMS-AutoHotKey/assets/74699244/cf3062b0-d7c4-4ad5-b0f9-dc96bcf19060)
