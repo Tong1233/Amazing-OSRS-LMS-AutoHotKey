@@ -9,3 +9,7 @@ Feature rich auto hotkey to play Last Man Standing on OSRS. Uses the FindText AH
 **Protection Prayer Switching (Mouse is free to move)**
 
 ![Pray](https://github.com/Tong1233/Amazing-OSRS-LMS-AutoHotKey/assets/74699244/cf3062b0-d7c4-4ad5-b0f9-dc96bcf19060)
+
+**Detects and uses upgraded items**
+
+![DH Example](https://github.com/Tong1233/Amazing-OSRS-LMS-AutoHotKey/assets/74699244/efc2c8b8-0070-42ec-92de-d403e40b1686)
