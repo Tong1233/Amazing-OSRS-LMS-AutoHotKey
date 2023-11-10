@@ -1,7 +1,8 @@
 # Amazing-OSRS-LMS-AutoHotKey
 
 Feature rich auto hotkey to play Last Man Standing on OSRS. Uses the FindText AHK Library to detect objects in the game (does not require client). 
-**Antiban:** Clicks follow a randomly modified Gaussian distribution curve within a set area to avoid AHK detection. Full demo video below. Message for set up assistance 
+
+**Antiban:** Clicks follow a randomly modified Gaussian distribution curve within a set area to avoid AHK detection. 
 
 **Fast Combat Style and Offensive Prayer Switching**
 
@@ -14,3 +15,6 @@ Feature rich auto hotkey to play Last Man Standing on OSRS. Uses the FindText AH
 **Detects and uses upgraded items**
 
 ![DH Example](https://github.com/Tong1233/Amazing-OSRS-LMS-AutoHotKey/assets/74699244/efc2c8b8-0070-42ec-92de-d403e40b1686)
+
+**Full Demo / Intense Fight :)**
+
